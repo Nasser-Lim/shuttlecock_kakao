@@ -1,0 +1,27 @@
+{
+  "name": "shuttlecock_v100",
+  "version": "0.0.0",
+  "description": "shuttlecock_v100",
+  "main": "app.js",
+  "author": "",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {},
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.4",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "iconv-lite": "^0.6.3",
+    "morgan": "^1.10.0",
+    "openai": "^4.61.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
